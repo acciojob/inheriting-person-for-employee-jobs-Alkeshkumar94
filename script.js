@@ -22,7 +22,7 @@ const Alice=new Person("Alice",25);
 alice.greet();
 const Bob=new Employee("Bob",30,"Manager");
 Bob.jobGreet();
-alice.greet();
+
 // Do not change code below this line
 window.Person = Person;
 window.Employee = Employee;
